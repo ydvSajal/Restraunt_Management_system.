@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "price": 10.99,
+    "veg": true,
+    "reviews": [
+      4,
+      5
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chicken Alfredo Pasta",
+    "price": 5.99,
+    "veg": false,
+    "reviews": [
+      3,
+      5,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Vegetable Stir Fry",
+    "price": 9.99,
+    "veg": true,
+    "reviews": [
+      5,
+      4,
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Classic Burger",
+    "price": 8.49,
+    "veg": false,
+    "reviews": [
+      4,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Caesar Salad",
+    "price": 7.99,
+    "veg": true,
+    "reviews": [
+      5,
+      5,
+      4
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Grilled Salmon",
+    "price": 10.99,
+    "veg": false,
+    "reviews": [
+      5,
+      4,
+      5,
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "name": "fries",
+    "price": 44.0,
+    "veg": true,
+    "reviews": []
+  }
+]

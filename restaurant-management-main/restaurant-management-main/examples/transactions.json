@@ -1,0 +1,32 @@
+[
+  {
+    "item_id": 3,
+    "quantity": 2,
+    "total_price": 19.98,
+    "timestamp": "2023-12-31 10:45:27"
+  },
+  {
+    "item_id": 2,
+    "quantity": 3,
+    "total_price": 17.97,
+    "timestamp": "2023-12-31 10:52:29"
+  },
+  {
+    "item_id": 3,
+    "quantity": 1,
+    "total_price": 9.99,
+    "timestamp": "2023-12-31 11:03:18"
+  },
+  {
+    "item_id": 1,
+    "quantity": 4,
+    "total_price": 43.96,
+    "name": "Margherita Pizza"
+  },
+  {
+    "item_id": 2,
+    "quantity": 2,
+    "total_price": 11.98,
+    "name": "Chicken Alfredo Pasta"
+  }
+]
